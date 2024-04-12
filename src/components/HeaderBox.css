@@ -1,0 +1,42 @@
+.headerBox {
+    width: 355.41px;
+    height: 181px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    font-size: x-large;
+    background-color: #9B9B9B;
+}
+
+.headerBox button {
+    width: 167.65px;
+    height: 38px;
+    border-radius: 15px;
+    margin-top: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.spanIncome {
+    color: #89E148;
+    font-weight: 500;
+}
+
+.spanExpense {
+    color: #ff705e;
+    font-weight: 500;
+}
+
+.buttonIncome {
+    background: linear-gradient(90deg, #B5DC52 0%, #89E148 100%);
+}
+
+.buttonExpense {
+    background: linear-gradient(90deg, #FF9595 0%, #FF4747 80%, #FF3838 100%);
+
+}
+

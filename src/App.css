@@ -1,0 +1,63 @@
+.App {
+  /* height: 100vh;
+  width: 100vw; */
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.title {
+  width: 1211px;
+  text-align: start;
+}
+
+.title h1 {
+  font-weight: 300;
+  text-align: start;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1211px;
+  padding: 20px 0;
+  gap: 0px;
+  border-radius: 10px;
+  opacity: 0px;
+  background: #626262;
+  margin-bottom: 20px;
+}
+
+.headerBoxContainer {
+  display: flex;
+  width: 760px;
+  height: 181px;
+  gap: 40px;
+}
+
+.bodyContainer {
+  width: 1211px;
+  margin-top: 20px;
+  background: #626262;
+}
+
+.boxBody {
+  display: flex;
+  width: 1185px;
+  height: 345.03px;
+  gap: 20px;
+  border: 1px solid rgb(6, 34, 6);
+  opacity: 0px;
+  background: #626262;
+}
+
+.transactions {
+  width: 738.33px;
+  gap: 0px;
+  border-radius: 15px;
+  background: #FFFFFF;
+
+}
