@@ -1,0 +1,29 @@
+.paginationContainer {
+    display: flex;
+    width: 137px;
+    height: 37px;
+    gap: 10px;
+}
+
+.navigationBtn {
+    width: 37px;
+    height: 37px;
+    display: grid;
+    align-items: center;
+    border-radius: 15px;
+    border: none;
+    background: linear-gradient(0deg, #F1F1F1, #F1F1F1);
+    box-shadow: 0px 4px 4px 0px #00000040;
+    cursor: pointer;
+}
+
+.navigationPageNo {
+    width: 37px;
+    height: 37px;
+    border-radius: 5px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #43967B;
+}
